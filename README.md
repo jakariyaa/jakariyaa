@@ -1,3 +1,5 @@
+<img src="https://github.com/jakariyaa/jakariyaa/blob/e079a930d14ad60c3e9d567b60eb308a287dc234/banner.png">
+
 <div align="center" id="user-content-toc">
   <ul>
     <summary>
@@ -8,9 +10,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">A Passionate Developer from Bangladesh</h3>
-<p align="center">Technology has always fascinated me. Studying Computer Science Engineering fueled my passion for software development and problem-solving. I love diving into new tech stacks, automating workflows, and building projects that solve real-world problems.
-From full-stack development to DevOps and open-source, I enjoy experimenting and learning. For me, coding isn’t just writing programs — it’s about creating impactful solutions. As technology evolves, so does my curiosity. I’m always excited to build, learn, and push my limits in the world of software development.</p>
+<h3 align="center">Software Engineer | Full-Stack & CyberSec Enthusiast</h3>
+<p align="center">Aspiring software engineer with hands-on experience in software development, full-stack engineering, and DevOps fundamentals, a strong foundation in data structures, algorithms, OOP, and system design, and experience building scalable web applications, RESTful APIs, automating workflows, and delivering clean, production-ready code in Agile environments, seeking internship or entry-level software engineering roles.</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -32,17 +33,19 @@ From full-stack development to DevOps and open-source, I enjoy experimenting and
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
+<table>
+  <tr>
+    <td width="50%">
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **AI, Linux and almost Anything**
+- 💬 Ask me about **WebDev, AI, Linux or Anything**
 
 - 📫 How to reach me **jakariya3460@gmail.com**
 
-- ⚡ Fun fact **I like procrastinating**
+- ⚡ Fun fact **I like racing with the deadline**
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -52,8 +55,16 @@ From full-stack development to DevOps and open-source, I enjoy experimenting and
 <a href="https://dev.to/jakariya3" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="jakariya3" height="40" width="40" /></a>
 <a href="https://discordapp.com/users/470958316202229791" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png" alt="cyphernyx" height="50" width="50" /></a>
 <a href="https://jakariyaa.medium.com/" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/medium/medium-icon-filled-256.webp" alt="jakariyaa" height="40" width="40" /></a>
-
 </p>
+
+<br>
+    </td>
+    <td width="50%">
+<img alt="github-stats" align="right" width="400" src="https://github-readme-stats-fast.vercel.app/api?username=jakariyaa&show_icons=true&theme=github_dark">
+<img alt="github-top-langs" align="right" width="400" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jakariyaa&layout=compact&theme=github_dark">
+    </td>
+  </tr>
+</table>
 
 <br>
 
